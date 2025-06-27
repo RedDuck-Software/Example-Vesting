@@ -11,4 +11,4 @@ If you get an error "error:0308010C:digital envelope routines::unsupported", it 
 
 If you get other errors, you can contact me by email: mark.virchenko@redduck.io and let me know about those errors.
 
-[<Link to the article>](https://redduck.medium.com/vesting-contract-implemented-in-3-different-ways-bdd7e7be3fa)
+Link to the article: https://redduck.medium.com/vesting-contract-implemented-in-3-different-ways-bdd7e7be3fa
